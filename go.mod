@@ -1,3 +1,3 @@
-module Driver-go
+module github.com/TTK4145-2022-students/driver-go-group-78
 
-go 1.16
+go 1.17
